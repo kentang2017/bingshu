@@ -1,4 +1,3 @@
-![Visitor Count](https://profile-counter.glitch.me/kentang2017/count.svg)
 # 兵占書目
 
 # 古今書目列表
