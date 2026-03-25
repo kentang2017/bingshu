@@ -1,64 +1,138 @@
-# 兵占書目
+<div align="center">
 
-# 古今書目列表
+# 兵書目錄 · Catalogue of Ancient Chinese Military Texts
 
-| 年份          | 作者           | 書名                                            | 備註       |
-| ------------- | ------------- | --------------------------------------------- | ------------- |
-|漢||《吳孫子兵法》八十二篇 | 漢書藝文志 | 
-|漢||《齊孫子》八十九篇 | 漢書藝文志 | 
-|漢||《孫鞅》二十七篇 | 漢書藝文志 | 
-|漢||《吳起》四十八篇  | 漢書藝文志 | 
-|漢||《范蠡》二篇 | 漢書藝文志 | 
-|漢||《大夫種》二篇 | 漢書藝文志 | 
-|漢||《李子》十篇 | 漢書藝文志 | 
-|漢||《娷》一篇 | 漢書藝文志 | 
-|漢||《兵春秋》一篇 | 漢書藝文志 | 
-|漢||《龐煖》三篇 | 漢書藝文志 | 
-|漢||《兒良》一篇 | 漢書藝文志 | 
-|漢||《廣武君》一篇 | 漢書藝文志 | 
-|漢||《韓信》三篇 | 漢書藝文志 | 
-|漢||《楚兵法》七篇 | 漢書藝文志 | 
-|漢||《蚩尤》二篇 | 漢書藝文志 | 
-|漢||《孫軫》五篇 | 漢書藝文志 | 
-|漢||《繇叙》二篇 | 漢書藝文志 | 
-|漢||《王孫》十六篇 | 漢書藝文志 | 
-|漢||《尉繚》三十一篇  | 漢書藝文志 | 
-|漢||《魏公子》二十一篇 | 漢書藝文志 | 
-|漢||《景子》十三篇 | 漢書藝文志 | 
-|漢||《李良》三篇 | 漢書藝文志 | 
-|漢||《丁子》一篇 | 漢書藝文志 | 
-|漢||《項王》一篇 | 漢書藝文志 | 
-|漢||《太壹兵法》一篇 | 漢書藝文志 | 
-|漢||《天一兵法》三十五篇 | 漢書藝文志 | 
-|漢||《神農兵法》一篇 | 漢書藝文志 | 
-|漢||《黃帝》十六篇 | 漢書藝文志 | 
-|漢||《封胡》五篇 | 漢書藝文志 | 
-|漢||《風後》十三篇 | 漢書藝文志 | 
-|漢||《力牧》十五篇 | 漢書藝文志 | 
-|漢||《鵊冶子》一篇 | 漢書藝文志 | 
-|漢||《鬼容區》三篇 | 漢書藝文志 | 
-|漢||《地典》六篇 | 漢書藝文志 | 
-|漢||《孟子》一篇 | 漢書藝文志 | 
-|漢||《東父》三十一篇 | 漢書藝文志 | 
-|漢||《師曠》八篇 | 漢書藝文志 | 
-|漢||《萇弘》十五篇 | 漢書藝文志 | 
-|漢||《別成子望軍氣》六篇 | 漢書藝文志 | 
-|漢||《辟兵威勝方》七十篇 | 漢書藝文志 | 
-|漢||《鮑子兵法》十篇 | 漢書藝文志 | 
-|漢||《五子胥》十篇 | 漢書藝文志 | 
-|漢||《公勝子》五篇 | 漢書藝文志 | 
-|漢||《苗子》五篇 | 漢書藝文志 | 
-|漢||《逢門射法》二篇 | 漢書藝文志 | 
-|漢||《陰通成射法》十一篇 | 漢書藝文志 | 
-|漢||《李將軍射法》三篇 | 漢書藝文志 | 
-|漢||《魏氏射法》六篇 | 漢書藝文志 | 
-|漢||《彊弩將軍王圍射法》五卷 | 漢書藝文志 | 
-|漢||《望遠連弩射法具》十五篇 | 漢書藝文志 | 
-|漢||《護軍射師王賀射書》五篇 | 漢書藝文志 | 
-|漢||《蒲苴子弋法》四篇 | 漢書藝文志 | 
-|漢||《劍道》三十八篇 | 漢書藝文志 | 
-|漢||《手搏》六篇 | 漢書藝文志 | 
-|漢||《雜家兵法》五十七篇 | 漢書藝文志 | 
+**中國歷代兵書總目 | A Comprehensive Bibliography of Chinese Military Literature**
+
+📚 收錄 **752** 部兵書，橫跨六個朝代 · 752 texts across six dynasties
+
+---
+
+</div>
+
+## 簡介 Introduction
+
+**兵書目錄**是一份系統整理的中國歷代兵書書目，涵蓋從漢代至清代的軍事典籍文獻記錄。資料來源包括《漢書·藝文志》、《隋書·經籍志》、《新唐書·藝文志》、《宋史·藝文志》、《明史·藝文志》及《清史稿·藝文志》等官修正史文獻。
+
+This repository is a curated catalogue of ancient Chinese military texts (*bingshu* 兵書) spanning from the Han dynasty (206 BC) to the Qing dynasty (1912 AD). The entries are compiled from official dynastic histories, including the *Book of Han*, *Book of Sui*, *Book of Tang*, *History of Song*, *History of Ming*, and *Draft History of Qing*.
+
+### 收錄範圍 Scope
+
+本目錄收錄的文獻涵蓋以下類別：
+
+- ⚔️ **兵法戰略** — Strategy & tactics (*Sun Tzu*, *Wu Qi*, *Six Secret Teachings*, etc.)
+- 🗺️ **陣圖陣法** — Battle formations & diagrams
+- 🔮 **兵占陰陽** — Military divination & cosmological warfare
+- 🏹 **兵技巧** — Combat techniques (archery, swordsmanship, martial arts)
+- 🔥 **火器兵械** — Firearms & weaponry
+- 🏰 **城守邊防** — Fortification & border defense
+- 📖 **兵家傳記** — Biographies of generals & military figures
+
+### 📊 各朝代統計 Statistics by Dynasty
+
+| 朝代 Dynasty | 時期 Period | 收錄數量 Entries |
+| :---: | :---: | :---: |
+| 漢 (Han Dynasty) | 206 BC – 220 AD | 55 |
+| 隋 (Sui Dynasty) | 581–618 AD | 106 |
+| 唐 (Tang Dynasty) | 618–907 AD | 133 |
+| 宋 (Song Dynasty) | 960–1279 AD | 347 |
+| 明 (Ming Dynasty) | 1368–1644 AD | 58 |
+| 清 (Qing Dynasty) | 1644–1912 AD | 53 |
+| **總計 Total** | | **752** |
+
+---
+
+## 📖 目錄 Table of Contents
+
+- [漢（Han Dynasty）— 55 部](#han-dynasty)
+- [隋（Sui Dynasty）— 106 部](#sui-dynasty)
+- [唐（Tang Dynasty）— 133 部](#tang-dynasty)
+- [宋（Song Dynasty）— 347 部](#song-dynasty)
+- [明（Ming Dynasty）— 58 部](#ming-dynasty)
+- [清（Qing Dynasty）— 53 部](#qing-dynasty)
+
+---
+
+## 古今兵書書目列表 Complete Bibliography
+
+<a id="han-dynasty"></a>
+
+### 漢（Han Dynasty，206 BC – 220 AD）— 55 部
+
+> 漢代兵書多載於《漢書·藝文志》，涵蓋兵權謀、兵形勢、兵陰陽、兵技巧四大類，奠定了中國古代軍事學術的基礎。
+>
+> Han dynasty military texts are primarily recorded in the *Treatise on Literature* (*Yiwenzhi*) of the *Book of Han*. They cover the four classical categories of military thought: strategy, tactics, cosmological warfare, and combat techniques.
+
+| 年份 | 作者 | 書名 | 備註 |
+| :---: | :---: | --- | :---: |
+|漢||《吳孫子兵法》八十二篇 | 漢書藝文志 |
+|漢||《齊孫子》八十九篇 | 漢書藝文志 |
+|漢||《孫鞅》二十七篇 | 漢書藝文志 |
+|漢||《吳起》四十八篇  | 漢書藝文志 |
+|漢||《范蠡》二篇 | 漢書藝文志 |
+|漢||《大夫種》二篇 | 漢書藝文志 |
+|漢||《李子》十篇 | 漢書藝文志 |
+|漢||《娷》一篇 | 漢書藝文志 |
+|漢||《兵春秋》一篇 | 漢書藝文志 |
+|漢||《龐煖》三篇 | 漢書藝文志 |
+|漢||《兒良》一篇 | 漢書藝文志 |
+|漢||《廣武君》一篇 | 漢書藝文志 |
+|漢||《韓信》三篇 | 漢書藝文志 |
+|漢||《楚兵法》七篇 | 漢書藝文志 |
+|漢||《蚩尤》二篇 | 漢書藝文志 |
+|漢||《孫軫》五篇 | 漢書藝文志 |
+|漢||《繇叙》二篇 | 漢書藝文志 |
+|漢||《王孫》十六篇 | 漢書藝文志 |
+|漢||《尉繚》三十一篇  | 漢書藝文志 |
+|漢||《魏公子》二十一篇 | 漢書藝文志 |
+|漢||《景子》十三篇 | 漢書藝文志 |
+|漢||《李良》三篇 | 漢書藝文志 |
+|漢||《丁子》一篇 | 漢書藝文志 |
+|漢||《項王》一篇 | 漢書藝文志 |
+|漢||《太壹兵法》一篇 | 漢書藝文志 |
+|漢||《天一兵法》三十五篇 | 漢書藝文志 |
+|漢||《神農兵法》一篇 | 漢書藝文志 |
+|漢||《黃帝》十六篇 | 漢書藝文志 |
+|漢||《封胡》五篇 | 漢書藝文志 |
+|漢||《風後》十三篇 | 漢書藝文志 |
+|漢||《力牧》十五篇 | 漢書藝文志 |
+|漢||《鵊冶子》一篇 | 漢書藝文志 |
+|漢||《鬼容區》三篇 | 漢書藝文志 |
+|漢||《地典》六篇 | 漢書藝文志 |
+|漢||《孟子》一篇 | 漢書藝文志 |
+|漢||《東父》三十一篇 | 漢書藝文志 |
+|漢||《師曠》八篇 | 漢書藝文志 |
+|漢||《萇弘》十五篇 | 漢書藝文志 |
+|漢||《別成子望軍氣》六篇 | 漢書藝文志 |
+|漢||《辟兵威勝方》七十篇 | 漢書藝文志 |
+|漢||《鮑子兵法》十篇 | 漢書藝文志 |
+|漢||《五子胥》十篇 | 漢書藝文志 |
+|漢||《公勝子》五篇 | 漢書藝文志 |
+|漢||《苗子》五篇 | 漢書藝文志 |
+|漢||《逢門射法》二篇 | 漢書藝文志 |
+|漢||《陰通成射法》十一篇 | 漢書藝文志 |
+|漢||《李將軍射法》三篇 | 漢書藝文志 |
+|漢||《魏氏射法》六篇 | 漢書藝文志 |
+|漢||《彊弩將軍王圍射法》五卷 | 漢書藝文志 |
+|漢||《望遠連弩射法具》十五篇 | 漢書藝文志 |
+|漢||《護軍射師王賀射書》五篇 | 漢書藝文志 |
+|漢||《蒲苴子弋法》四篇 | 漢書藝文志 |
+|漢||《劍道》三十八篇 | 漢書藝文志 |
+|漢||《手搏》六篇 | 漢書藝文志 |
+|漢||《雜家兵法》五十七篇 | 漢書藝文志 |
+
+---
+
+<a id="sui-dynasty"></a>
+
+### 隋（Sui Dynasty，581–618 AD）— 106 部
+
+> 隋代兵書見於《隋書·經籍志》，承繼南北朝之軍事遺產，兼收兵法、陣圖、占候等各類文獻。
+>
+> Sui dynasty military texts are recorded in the *Treatise on Bibliography* of the *Book of Sui*. They inherit the military legacy of the Northern and Southern Dynasties, encompassing strategy, battle formations, and military divination.
+
+| 年份 | 作者 | 書名 | 備註 |
+| :---: | :---: | --- | :---: |
 |隋||《司馬兵法》三卷  | 隋書 |
 |隋||《孫子兵法》二卷  | 隋書 |
 |隋||《孫子兵法》一卷 | 隋書 |
@@ -165,6 +239,19 @@
 |隋||《雜博戲》五卷 | 隋書 |
 |隋||《投壺經》一卷 | 隋書 |
 |隋|梁東宮|《太一博法》一卷  | 隋書 |
+
+---
+
+<a id="tang-dynasty"></a>
+
+### 唐（Tang Dynasty，618–907 AD）— 133 部
+
+> 唐代兵書見於《新唐書·藝文志》及《舊唐書·經籍志》，名將輩出，兵學大盛，注疏之風尤為興盛。
+>
+> Tang dynasty military texts are cataloged in the *New* and *Old Book of Tang*. This era produced many renowned generals and saw a flourishing of military scholarship, particularly commentaries on classical works.
+
+| 年份 | 作者 | 書名 | 備註 |
+| :---: | :---: | --- | :---: |
 |唐||《黃帝問玄女法》三卷 | 唐書 |
 |唐||《太公陰謀》三卷 | 唐書 |
 |唐||《太公金匱》二卷 | 唐書 |
@@ -298,6 +385,19 @@
 |唐|李德裕|《西南備邊錄》十三卷 | 唐書 |
 |唐|杜希全|《新集兵書要訣》三卷 | 唐書 |
 |唐|張道古|《兵論》一卷 | 唐書 |
+
+---
+
+<a id="song-dynasty"></a>
+
+### 宋（Song Dynasty，960–1279 AD）— 347 部
+
+> 宋代兵書見於《宋史·藝文志》，數量為歷代之最。宋代邊患頻仍，軍事理論與實戰經驗並重，武經七書亦定於此時。
+>
+> Song dynasty military texts are recorded in the *Treatise on Bibliography* of the *History of Song*. The Song produced more military texts than any other dynasty, driven by constant border threats. The canonical *Seven Military Classics* were also codified during this period.
+
+| 年份 | 作者 | 書名 | 備註 |
+| :---: | :---: | --- | :---: |
 |宋||《風后握機》一卷 | 宋史 |
 |宋||《六韜》六卷  | 宋史 |
 |宋||《司馬兵法》三卷 | 宋史 |
@@ -645,6 +745,19 @@
 |宋|余臺|《兵籌類要》十五卷 | 宋史 |
 |宋||《溱播州勝兵法》二部 | 宋史 |
 |宋|任諒|《兵書》十卷 | 宋史 |
+
+---
+
+<a id="ming-dynasty"></a>
+
+### 明（Ming Dynasty，1368–1644 AD）— 58 部
+
+> 明代兵書見於《明史·藝文志》，邊防、海防與火器技術發展顯著，戚繼光、茅元儀等名將名著流傳至今。
+>
+> Ming dynasty military texts are recorded in the *History of Ming*. This period saw major developments in border defense, naval warfare, and firearms technology. Works by generals like Qi Jiguang remain influential today.
+
+| 年份 | 作者 | 書名 | 備註 |
+| :---: | :---: | --- | :---: |
 |明|劉寅|《七書直解》二十六卷  | 明史 |
 |明||《集古兵法》一卷 | 明史 |
 |明|寧獻王朱權 |《注素書》一卷 | 明史 |
@@ -703,6 +816,19 @@
 |明||《兵律》三十八卷 | 明史 |
 |明||《兵占》二十四卷 | 明史 |
 |明||《兵機備纂》十三卷 | 明史 |
+
+---
+
+<a id="qing-dynasty"></a>
+
+### 清（Qing Dynasty，1644–1912 AD）— 53 部
+
+> 清代兵書見於《清史稿·藝文志》，在整理校注前代兵書的基礎上，亦發展了火器、練兵等新式軍事著作。
+>
+> Qing dynasty military texts are recorded in the *Draft History of Qing*. Scholars of this period compiled and annotated earlier works while also producing new treatises on firearms, drilling, and modern military training.
+
+| 年份 | 作者 | 書名 | 備註 |
+| :---: | :---: | --- | :---: |
 |清||《握奇經注》一卷 | 清史 |
 |清||《握奇經解》一卷| 清史 |
 |清||《握奇經定本》一卷，《正義》一卷，圖一卷| 清史 |
@@ -715,7 +841,7 @@
 |清||《兵謀》一卷  | 清史 |
 |清||《兵法》一卷  | 清史 |
 |清||《兵鏡》十一卷  | 清史 |
-|清||《兵鏡或問》二卷  | 清史 |  
+|清||《兵鏡或問》二卷  | 清史 |
 |清||《戊笈談兵》十卷  | 清史 |
 |清||《洴澼百金方》十四卷  | 清史 |
 |清||《治平勝算全書》十六卷  | 清史 |
@@ -756,3 +882,43 @@
 |清||《太公兵法逸文》一卷  | 清史 |
 |清||《武侯八陣心法輯略》一卷  | 清史 |
 |清||《別本司馬法》一卷  | 清史 |
+
+---
+
+## 📎 附錄 Appendix
+
+本倉庫附有以下文獻資料：
+
+| 文件 File | 說明 Description |
+| --- | --- |
+| 【清】徐霞翁 - 兵占秘要.pdf | 清代徐霞翁所著《兵占秘要》，軍事占卜專著。 |
+| | *A Qing dynasty treatise on military divination by Xu Xiaweng.* |
+
+## 💡 說明 Notes
+
+- 書目資料來源為中國歷代正史藝文志。  
+  The bibliography is compiled from the bibliographic treatises of official dynastic histories.
+- 部分條目可能存在重複記載，如同一部兵書在不同朝代的史志中均有著錄。  
+  Some texts may appear in multiple dynasties as they are recorded in different historical sources.
+- 歡迎學者、研究者及愛好者參考使用。  
+  Scholars, researchers, and enthusiasts are welcome to use this catalogue as a reference.
+
+## 🤝 貢獻 Contributing
+
+歡迎提交 Issue 或 Pull Request 來完善本書目，包括但不限於：
+
+- 📝 補充遺漏的兵書條目 — Add missing entries
+- ✏️ 修正書名、作者等資訊 — Correct errors in titles, authors, or notes
+- 📚 增補其他文獻來源 — Contribute additional source references
+
+---
+
+<div align="center">
+
+**兵書目錄 · Catalogue of Ancient Chinese Military Texts**
+
+*以史為鑑，可以知興替；以兵為鑑，可以明攻守。*
+
+*"By studying history, one may understand the rise and fall of nations; by studying military texts, one may master the art of offense and defense."*
+
+</div>
