@@ -891,7 +891,8 @@ This repository is a curated catalogue of ancient Chinese military texts (*bings
 
 | 文件 File | 說明 Description |
 | --- | --- |
-| 【清】徐霞翁 - 兵占秘要.pdf | 清代徐霞翁所著《兵占秘要》，軍事占卜專著。A Qing dynasty treatise on military divination by Xu Xiaweng. |
+| 【清】徐霞翁 - 兵占秘要.pdf | 清代徐霞翁所著《兵占秘要》，軍事占卜專著。 |
+| | *A Qing dynasty treatise on military divination by Xu Xiaweng.* |
 
 ## 💡 說明 Notes
 
